@@ -5,5 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-Ruby version
+## Ruby version
 version 2.2.0p0
+
+## Author
+[Christopher Smith](https://github.com/smithopher)
